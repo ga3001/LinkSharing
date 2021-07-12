@@ -1,2 +1,2 @@
 # LinkSharing
-This repository contains Full Stack application.
+This repository contains code for Full Stack Web Application.
